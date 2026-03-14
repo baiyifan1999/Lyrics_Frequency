@@ -1,6 +1,6 @@
 streamlit
 lyricsgenius
-spacy
+spacy==3.7.5
 pandas
 matplotlib
 wordcloud
